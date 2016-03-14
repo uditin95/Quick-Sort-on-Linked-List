@@ -1,5 +1,5 @@
 
-de* sort(Node *head) {
+Node* sort(Node *head) {
     if(head == NULL)
         return ;
         

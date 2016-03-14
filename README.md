@@ -1,8 +1,8 @@
 # Quick-Sort-on-Linked-List
 
-It is Just a Quick sort function.
+It is Just a Quick Sort function.
 
-here,
+#here,
 
 typedef struct node{
   int data;
